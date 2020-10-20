@@ -1,2 +1,2 @@
-# METIS_Project02_Luther
+# METIS Project02 Luther
 Web scraping project
